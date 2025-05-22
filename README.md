@@ -1,4 +1,6 @@
-<img src="https://readme-hero.vercel.app/api?username=inderjitgiri15042002&title=Frontend%20Developer&subtitle=JavaScript%20%7C%20React%20%7C%20Node.js&font=Raleway&textColor=ffffff&backgroundColor=0d1117&waveColor=007acc&iconColor=facc15&iconSize=70" width="100%" />
+![Fullstack Engineer](https://img.shields.io/badge/Fullstack%20Engineer-React-blueviolet?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 👋 Hey there, I'm Inderjit Giri!
 
@@ -7,10 +9,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=inderjitgiri15042002&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inderjit-giri-543872233" target="_blank">
+  <a href="https://www.linkedin.com/in/inderjit-giri-543872233" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20with%20me" alt="LinkedIn" />
   </a>
-  <a href="mailto:inderjitgiri2002@gmail.com" target="_blank">
+  <a href="mailto:inderjitgiri2002@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Say%20Hello" alt="Gmail" />
   </a>
 </p>
@@ -30,6 +32,34 @@ I'm a **Frontend Developer** who thrives on crafting sleek, high-performance web
 
 ---
 
+## 📚 Currently Learning
+
+I'm diving deep into:
+
+- Next.js for server-side rendering and static site generation
+- Redux Toolkit for scalable state management
+- GraphQL to optimize API queries
+- Docker and Kubernetes for containerization and orchestration
+
+Always expanding my skill set! 🚀
+
+---
+
+## 🎉 Fun Facts About Me
+
+- Coffee lover ☕ and night owl 🌙
+- Passionate about open-source contributions 👐
+- Gamer and tech podcast enthusiast 🎧
+- Always experimenting with new tech stacks 🔧
+
+---
+
+## 💡 Motto
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
 ## 🧠 Tech Skills
 
 | JavaScript                                                                                                         | React                                                                                               | Node.js                                                                                                   | MongoDB                                                                                                   | Tailwind CSS                                                                                                             |
@@ -46,9 +76,15 @@ I'm a **Frontend Developer** who thrives on crafting sleek, high-performance web
 
 ---
 
-## ✨ Daily Motivation
+## 🌍 Open Source Contributions
 
-> "Strive not to be a success, but rather to be of value." – Albert Einstein
+I actively contribute to open source projects:
+
+- [React](https://github.com/facebook/react) — submitted bug fixes and docs improvements
+- [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) — helped with utility enhancements
+- [SomeOtherProject](https://github.com/username/SomeOtherProject) — feature additions and code reviews
+
+Feel free to check out my GitHub repos for more!
 
 ---
 
@@ -75,7 +111,7 @@ A sleek React app to track cryptocurrency prices:
 
 > A modern e-commerce platform
 
-![Buzz-Shops](buzz-shop.png) <!-- Add your image link -->
+![Buzz-Shops](buzz-shop.png)
 
 - 🔐 User authentication
 - 🛒 Cart + Checkout flows
@@ -153,13 +189,13 @@ A sleek React app to track cryptocurrency prices:
 ## 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="mailto:inderjitgiri2002@gmail.com" target="_blank">
+  <a href="mailto:inderjitgiri2002@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/inderjit-giri-543872233" target="_blank">
+  <a href="https://www.linkedin.com/in/inderjit-giri-543872233" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/inderjitgiri15042002" target="_blank">
+  <a href="https://github.com/inderjitgiri15042002" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -172,3 +208,4 @@ A sleek React app to track cryptocurrency prices:
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer)
+
