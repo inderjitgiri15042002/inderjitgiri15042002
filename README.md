@@ -1,4 +1,4 @@
-![Fullstack Engineer](https://img.shields.io/badge/Fullstack%20Engineer-React-blueviolet?style=for-the-badge&logo=react)
+![FrontEnd Engineer](https://img.shields.io/badge/Fullstack%20Engineer-React-blueviolet?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
