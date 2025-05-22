@@ -96,7 +96,6 @@ Feel free to check out my GitHub repos for more!
 
 A sleek React app to track cryptocurrency prices:
 
-![Track-Coin](Track-coin.png)
 
 - 🔄 Real-time currency switching (USD/INR)
 - 🌙 Dark/light mode toggle
@@ -111,7 +110,6 @@ A sleek React app to track cryptocurrency prices:
 
 > A modern e-commerce platform
 
-![Buzz-Shops](buzz-shop.png)
 
 - 🔐 User authentication
 - 🛒 Cart + Checkout flows
@@ -123,7 +121,7 @@ A sleek React app to track cryptocurrency prices:
 
 > Interactive quiz application
 
-![QuizMaster](Quizmaster.png)
+
 
 - ✅ Instant feedback
 - 🎯 Topic-wise quiz sets
