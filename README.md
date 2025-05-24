@@ -21,7 +21,8 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="coding" width="400"  src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+
 
 I'm a **Frontend Developer** who thrives on crafting sleek, high-performance web applications. I specialize in **React**, **JavaScript**, **TypeScript**, and modern UI libraries like **Tailwind CSS** and **Material UI**. I also build full-stack applications using **Node.js**, **Express**, and **MongoDB**.
 
@@ -62,17 +63,58 @@ Always expanding my skill set! 🚀
 
 ## 🧠 Tech Skills
 
+### 🔧 Shield Badges
+
 | JavaScript                                                                                                         | React                                                                                               | Node.js                                                                                                   | MongoDB                                                                                                   | Tailwind CSS                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge) |
 
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
+---
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" width="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" alt="Redux" width="40"/>
+  &nbsp;
+  <img src="https://redux-toolkit.js.org/img/redux-logo-landscape.png" alt="Redux Toolkit" width="80"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="40"/>
+  &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="ShadCN UI" width="40"/>
 </p>
+
+---
+
+### 🖥️ Backend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40"/>
+</p>
+
+---
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="40"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40"/>
+</p>
+
 
 ---
 
