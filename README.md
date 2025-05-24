@@ -113,6 +113,7 @@ Always expanding my skill set! 🚀
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="40"/>
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40"/>
+  <img src="https://mui.com/static/logo.png" alt="Material UI" width="40"/>
 </p>
 
 
