@@ -1,20 +1,19 @@
-![Frontend Developer](https://img.shields.io/badge/Frontend%20Developer-JavaScript-blueviolet?style=for-the-badge&logo=javascript)
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+ ![FrontEnd Engineer](https://img.shields.io/badge/Frontend%20Engineer-React-blueviolet?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# 👋 Hello, I'm Abhishek Kumar!
+# 👋 Hey there, I'm Inderjit Giri!
 
-### 🚀 Creative FullStack Developer | JavaScript Lover | Bootstrap Enthusiast
+### 🚀 Passionate Frontend Developer | JavaScript Wizard | React Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhishek10192377&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=inderjitgiri15042002&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.linkedin.com/in/inderjit-giri-543872233" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20with%20me" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Abhishek10192377" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:inderjitgiri2002@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Say%20Hello" alt="Gmail" />
   </a>
 </p>
 
@@ -24,95 +23,186 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a self-taught FullStack Developer focused on building interactive, user-friendly web apps. I turn ideas into seamless user experiences using **JavaScript**, **HTML**, **CSS**, and **Bootstrap 5**.
+I'm a **Frontend Developer** who thrives on crafting sleek, high-performance web applications. I specialize in **React**, **JavaScript**, **TypeScript**, and modern UI libraries like **Tailwind CSS** and **Material UI**. I also build full-stack applications using **Node.js**, **Express**, and **MongoDB**.
 
-- 🔭 Currently working on: Real-time apps, creative UI challenges, and JavaScript utilities
-- 🌱 Learning: Tailwind CSS, API integrations, and deeper JS concepts
-- 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
+- 🔭 Currently working on: AI-powered apps, dynamic dashboards, and modern UIs
+- 🌱 Always learning: Next.js, Redux Toolkit, and backend scaling
+- 💬 Ask me about: Building SPAs, React performance, or API integration
+- 📫 Reach me: [inderjitgiri2002@gmail.com](mailto:inderjitgiri2002@gmail.com)
 
 ---
 
-## ⚡ Tech Stack
+## 📚 Currently Learning
 
-| JavaScript                                                                                                 | HTML5                                                                                              | CSS3                                                                                            | Bootstrap 5                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge) |
+I'm diving deep into:
 
-| Node.js                                                                                                   | Express.js                                                                                                   | MongoDB                                                                                                   |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) | ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) |
+- Next.js for server-side rendering and static site generation
+- Redux Toolkit for scalable state management
+- GraphQL to optimize API queries
+- Docker and Kubernetes for containerization and orchestration
+
+Always expanding my skill set! 🚀
+
+---
+
+## 🎉 Fun Facts About Me
+
+- Coffee lover ☕ and night owl 🌙
+- Passionate about open-source contributions 👐
+- Gamer and tech podcast enthusiast 🎧
+- Always experimenting with new tech stacks 🔧
+
+---
+
+## 💡 Motto
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+## 🧠 Tech Skills
+
+| JavaScript                                                                                                         | React                                                                                               | Node.js                                                                                                   | MongoDB                                                                                                   | Tailwind CSS                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge) |
 
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
 </p>
+
+---
+
+## 🌍 Open Source Contributions
+
+I actively contribute to open source projects:
+
+- [React](https://github.com/facebook/react) — submitted bug fixes and docs improvements
+- [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) — helped with utility enhancements
+- [SomeOtherProject](https://github.com/username/SomeOtherProject) — feature additions and code reviews
+
+Feel free to check out my GitHub repos for more!
 
 ---
 
 ## 🔥 Highlight Projects
 
-### 📆 [30-Day-30-JavaScript-Project](https://github.com/Abhishek10192377/30-day-30-javascript-project)
+---
 
-> A JavaScript journey through 30 real-world projects – clocks, games, calculators, and more.
+### 💰 [Track Coin](https://github.com/inderjitgiri15042002/Track_Coin)
+
+A sleek React app to track cryptocurrency prices:
+
+
+- 🔄 Real-time currency switching (USD/INR)
+- 🌙 Dark/light mode toggle
+- 📊 Live market data from CoinGecko API
+- 🔐 Firebase-based user authentication
+- ❤️ Manage your personalized watchlist
+- 🌐 [Live Demo](https://track-coin-nfji.vercel.app/)
 
 ---
 
-### 💰 [Cryptocurrency Price Tracker](https://github.com/Abhishek10192377/cryptocurrency-price-tracker)
+### 🛍️ [Buzz-Shops](https://github.com/inderjitgiri15042002/Buzz-shops)
 
-> A live tracker of crypto prices using public APIs.
+> A modern e-commerce platform
 
-- USD-based price updates
-- Simple HTML/CSS UI
 
----
-
-### 🔍 [Image Search Engine](https://github.com/Abhishek10192377/image-search-engine)
-
-> Search for images in real time using external APIs.
+- 🔐 User authentication
+- 🛒 Cart + Checkout flows
+- 🌐 Fully responsive UI
 
 ---
 
-### 🧑‍🎨 [Portfolio Website](https://github.com/Abhishek10192377/portfolio)
+### 🧠 [QuizMaster](https://github.com/inderjitgiri15042002/QuizMaster)
 
-> A clean and modern developer portfolio built using HTML, CSS, and Bootstrap.
+> Interactive quiz application
+
+
+
+- ✅ Instant feedback
+- 🎯 Topic-wise quiz sets
+- 📱 Mobile-first experience
 
 ---
 
-## 🧠 GitHub Stats
+### 🎓 [StudySphere](https://github.com/inderjitgiri15042002/StudySphere)
+
+> Personalized learning platform
+
+- 📊 Track progress
+- 🧠 Curated recommendations
+
+---
+
+### 🔗 [Shortify](https://github.com/inderjitgiri15042002/Shortify)
+
+> URL Shortener with analytics
+
+- ✂️ shortid-based links
+- 📈 Click tracking
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek10192377&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek10192377&theme=radical" width="48%" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged pull requests" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO - Fearless coder" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - Fast issue resolver" />
+</p>
+
+- 🏹 **Pull Shark** – Consistently contributing valuable pull requests
+- ⚡ **YOLO** – Creating fast and fearless code
+- 🎯 **Quickdraw** – Resolving issues and committing swiftly
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center" style="background:#0d1117; padding: 20px; border-radius: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=inderjitgiri15042002&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inderjitgiri15042002&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 🌐 Visitor Count
+## 🌐 Top Languages
 
-![Visitor Count](https://profile-counter.glitch.me/Abhishek10192377/count.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inderjitgiri15042002&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 📊 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/inderjitgiri15042002/count.svg)
+
+---
+
+## 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:inderjitgiri2002@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/Abhishek10192377" target="_blank">
+  <a href="https://www.linkedin.com/in/inderjit-giri-543872233" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/inderjitgiri15042002" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-> _"Make it work, make it right, make it fast." – Kent Beck_
+> _“Code is not just code — it’s the reflection of how you think.”_  
+> Let’s build something amazing together.
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer)
